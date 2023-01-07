@@ -56,6 +56,6 @@
 ## Medical AI
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
-|MICLe (Big Self-Supervised Models Advance Medical Image Classifications)|ICCV 2021|[paper](https://arxiv.org/pdf/2101.05224.pdf)||
+|MICLe (Big Self-Supervised Models Advance Medical Image Classifications)|ICCV 2021|[paper](https://arxiv.org/pdf/2101.05224.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/Big-self-supervised-Models-Advance-Medical-Image-Classification-4e606a2df3ad42a2a1b2bc0379497d9a)||
 
 
