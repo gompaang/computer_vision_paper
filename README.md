@@ -16,13 +16,19 @@
 ### image classification
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
-|AlexNet (ImageNet Classification with Deep Convolutional Neural Networks)|NeurPS 2012|[paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)||
-|VGGNet (Very Deep Convolutional Networks For Large-Scale Image Recognition)|ICLR 2015|[paper](https://arxiv.org/pdf/1409.1556.pdf)||
-|ResNet (Deep Residual Learning for Image Recognition)|CVPR 2015|[paper](https://arxiv.org/pdf/1512.03385.pdf)||
+|AlexNet (ImageNet Classification with Deep Convolutional Neural Networks)|NeurPS 2012|[paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/AlexNet-2012-14b1e41747b340f380d058e0604ea657)|[code](https://github.com/gompaang/cifar10-classification/blob/master/models/alexnet.py)|
+|VGGNet (Very Deep Convolutional Networks For Large-Scale Image Recognition)|ICLR 2015|[paper](https://arxiv.org/pdf/1409.1556.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/VGGNet-2015-3c8abd1c60b646a4a173d57f2f3c4f57)|[code](https://github.com/gompaang/cifar10-classification/blob/master/models/vggnet.py)|
+|ResNet (Deep Residual Learning for Image Recognition)|CVPR 2015|[paper](https://arxiv.org/pdf/1512.03385.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/ResNet-2015-ab49bb53ac194b6aac7e56fce4499f98)|[code](https://github.com/gompaang/cifar10-classification/blob/master/models/resnet.py)|
+|SENet (Squeeze-and-Excitation Networks)|CVPR 2018|[paper](https://arxiv.org/pdf/1709.01507.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/SENet-2018-481b18a669fe4be88e8a2034e37c1999)||
 
 ### object detection
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
+|R-CNN (Rich feature hierarchies for accurate object detection and semantiv segmentation)|ILSVRC 2013|[paper](https://arxiv.org/abs/1311.2524)|[summary](https://mirror-dragonfly-2a2.notion.site/R-CNN-2014-967531ae120f41febd53fe331c9dbc61)||
+|Fast R-CNN|2015|[paper](https://arxiv.org/pdf/1504.08083.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/Fast-R-CNN-2015-6aaf793a79c645c1a82cbdd18ed61e36)||
+|Faster R-CNN (Towards Real-Time Object Detection with Region Proposal Networks)|NIPS 2015|[paper](https://arxiv.org/pdf/1506.01497.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/Faster-R-CNN-2016-59bca3f94a5d4b13a64cc29f50829d3f)||
+|YOLO (You Only Look Once: Unified, Real-Time Object Detection)|2016|[paper](https://arxiv.org/pdf/1506.02640.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/YOLO-2016-bbf62be633864d9496302cc39fed227a)||
+|SSD (Single Shot MultiBox Detector)|2016|[paper](https://arxiv.org/pdf/1512.02325.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/SSD-2016-83db924b7b104af5adf125595c816747)||
 
 ### segmentation
 |Name|year|paper|summary|code|
