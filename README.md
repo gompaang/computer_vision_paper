@@ -49,7 +49,7 @@
 ## Self-supervised learning
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
-|SimCLR (A Single Framework for Contrastive Learning of Visual Representations)|ICML 2020|[paper](https://arxiv.org/pdf/2002.05709.pdf)||
+|SimCLR (A Single Framework for Contrastive Learning of Visual Representations)|ICML 2020|[paper](https://arxiv.org/pdf/2002.05709.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/SimCLR-923b3c90e90c4a57b7c5018bb40a249b)||
 |Moco (Momentum Contrast for Unsupervised Visual Representation Learning)|CVPR 2020|[paper](https://arxiv.org/pdf/1911.05722.pdf)||
 
 
