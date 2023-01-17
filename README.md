@@ -51,6 +51,8 @@
 |---|---|---|---|---|
 |SimCLR (A Single Framework for Contrastive Learning of Visual Representations)|ICML 2020|[paper](https://arxiv.org/pdf/2002.05709.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/SimCLR-923b3c90e90c4a57b7c5018bb40a249b)||
 |Moco (Momentum Contrast for Unsupervised Visual Representation Learning)|CVPR 2020|[paper](https://arxiv.org/pdf/1911.05722.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/MoCo-d85d8542b356448baa60b4aa5e3c0293)||
+|BYOL (Bootstrap Yout Own Latent A New Approach to Self-Supervised Learning)|NeurIPS 2020|[paper](https://arxiv.org/pdf/2006.07733.pdf)|||
+|DINO (Emerging Properties in Self-supervised Vision Transformers)|2021|[paper](https://arxiv.org/pdf/2104.14294v2.pdf)|||
 
 
 
@@ -59,5 +61,7 @@
 |---|---|---|---|---|
 |MICLe (Big Self-Supervised Models Advance Medical Image Classifications)|ICCV 2021|[paper](https://arxiv.org/pdf/2101.05224.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/Big-self-supervised-Models-Advance-Medical-Image-Classification-4e606a2df3ad42a2a1b2bc0379497d9a)||
 |TransUNet (Transformers Make Strong Encoders for Medical Image Segmentation)|2021|[paper](https://arxiv.org/pdf/2102.04306.pdf)|||
+|Unetr (UNETR: Transformers for 3D Medical Image Segmentation)|2021|[paper](https://arxiv.org/pdf/2103.10504v3.pdf)|||
+|TransBTS (Multimodal Brain Tumor Segmentation Using Transformer)|2021|[paper](https://arxiv.org/pdf/2103.04430v2.pdf)|||
 
 
