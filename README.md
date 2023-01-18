@@ -51,8 +51,8 @@
 |---|---|---|---|---|
 |SimCLR (A Single Framework for Contrastive Learning of Visual Representations)|ICML 2020|[paper](https://arxiv.org/pdf/2002.05709.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/SimCLR-923b3c90e90c4a57b7c5018bb40a249b)||
 |Moco (Momentum Contrast for Unsupervised Visual Representation Learning)|CVPR 2020|[paper](https://arxiv.org/pdf/1911.05722.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/MoCo-d85d8542b356448baa60b4aa5e3c0293)||
-|BYOL (Bootstrap Yout Own Latent A New Approach to Self-Supervised Learning)|NeurIPS 2020|[paper](https://arxiv.org/pdf/2006.07733.pdf)|||
-|DINO (Emerging Properties in Self-supervised Vision Transformers)|2021|[paper](https://arxiv.org/pdf/2104.14294v2.pdf)|||
+|BYOL (Bootstrap Yout Own Latent A New Approach to Self-Supervised Learning)|NeurIPS 2020|[paper](https://arxiv.org/pdf/2006.07733.pdf)|[summary](https://hey-stranger.tistory.com/236)||
+|DINO (Emerging Properties in Self-supervised Vision Transformers)|2021|[paper](https://arxiv.org/pdf/2104.14294v2.pdf)|[summary](https://hey-stranger.tistory.com/237)||
 
 
 
