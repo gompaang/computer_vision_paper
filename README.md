@@ -62,7 +62,7 @@
 ## Medical AI
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
-|MICLe (Big Self-Supervised Models Advance Medical Image Classifications)|ICCV 2021|[paper](https://arxiv.org/pdf/2101.05224.pdf)|[summary](https://mirror-dragonfly-2a2.notion.site/Big-self-supervised-Models-Advance-Medical-Image-Classification-4e606a2df3ad42a2a1b2bc0379497d9a)||
+|MICLe (Big Self-Supervised Models Advance Medical Image Classifications)|ICCV 2021|[paper](https://arxiv.org/pdf/2101.05224.pdf)|[tistory](https://hey-stranger.tistory.com/242)||
 |TransUNet (Transformers Make Strong Encoders for Medical Image Segmentation)|2021|[paper](https://arxiv.org/pdf/2102.04306.pdf)|||
 |Unetr (UNETR: Transformers for 3D Medical Image Segmentation)|2021|[paper](https://arxiv.org/pdf/2103.10504v3.pdf)|||
 |TransBTS (Multimodal Brain Tumor Segmentation Using Transformer)|2021|[paper](https://arxiv.org/pdf/2103.04430v2.pdf)|||
