@@ -8,7 +8,9 @@
 - vision transformer
 - self-supervised learning
 - medical AI
-
+  - classification
+  - segmentation  
+<br/>
 
 
 ## Computer Vision (CNN)
@@ -33,8 +35,8 @@
 ### segmentation
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
-|U-Net (Convolutional Networks for Biomedical Image Segmentation)|MICCAI 2015|[paper](https://arxiv.org/pdf/1505.04597.pdf)||
-
+|U-Net (Convolutional Networks for Biomedical Image Segmentation)|MICCAI 2015|[paper](https://arxiv.org/pdf/1505.04597.pdf)||  
+<br/>
 
 
 ## Vision Transformer (ViT)
@@ -43,7 +45,7 @@
 |ViT (An Image Is Worth 16x16 Words: Transformers For Image Recognition At Scale)|ICLR 2021|[paper](https://arxiv.org/pdf/2010.11929.pdf)|[tistory](https://hey-stranger.tistory.com/243)||
 |Swin Transformer (Hierarchical Vision Transformer using Shifted Windows)|ICCV 2021|[paper](https://arxiv.org/pdf/2103.14030.pdf)||
 |MLP-Mixer (An all-MLP Architecture for Vision)|2021|[paper](https://arxiv.org/pdf/2105.01601.pdf)|||
-
+<br/>
 
 
 ## Self-supervised learning
@@ -56,13 +58,20 @@
 |SimCLR v2 (Big Self-Supervised Models are Strong Semi-Supervised Learners)|NeurIPS 2020|[paper](https://arxiv.org/pdf/2006.10029.pdf)|||
 |MoCo v2 (Improved Baselines with Momentum Contrastive Learning)|2020|[paper](https://arxiv.org/pdf/2003.04297.pdf)|||
 |MoCo v3 (An Empirical Study of Training Self-Supervised Vision Transformers)|ICCV 2021|[paper](https://arxiv.org/pdf/2104.02057.pdf)|||
+<br/>
 
 
 
 ## Medical AI
+
+### classification
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
 |MICLe (Big Self-Supervised Models Advance Medical Image Classifications)|ICCV 2021|[paper](https://arxiv.org/pdf/2101.05224.pdf)|[tistory](https://hey-stranger.tistory.com/242)||
+
+### segmentation
+|Name|year|paper|summary|code|
+|---|---|---|---|---|
 |TransUNet (Transformers Make Strong Encoders for Medical Image Segmentation)|2021|[paper](https://arxiv.org/pdf/2102.04306.pdf)|||
 |Unetr (UNETR: Transformers for 3D Medical Image Segmentation)|2021|[paper](https://arxiv.org/pdf/2103.10504v3.pdf)|||
 |TransBTS (Multimodal Brain Tumor Segmentation Using Transformer)|2021|[paper](https://arxiv.org/pdf/2103.04430v2.pdf)|||
