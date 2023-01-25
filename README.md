@@ -72,8 +72,10 @@
 ### segmentation
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
-|TransUNet (Transformers Make Strong Encoders for Medical Image Segmentation)|2021|[paper](https://arxiv.org/pdf/2102.04306.pdf)|||
-|Unetr (UNETR: Transformers for 3D Medical Image Segmentation)|2021|[paper](https://arxiv.org/pdf/2103.10504v3.pdf)|||
+|U-Net (Convolutional Networks for Biomedical Image Segmentation)|MICCAI 2015|[paper](https://arxiv.org/pdf/1505.04597.pdf)|[tistory]()||
+|TransUNet (Transformers Make Strong Encoders for Medical Image Segmentation)|2021|[paper](https://arxiv.org/pdf/2102.04306.pdf)|[tistory](https://hey-stranger.tistory.com/246)||
+|UNETR (UNETR: Transformers for 3D Medical Image Segmentation)|2021|[paper](https://arxiv.org/pdf/2103.10504v3.pdf)|[tistory](https://hey-stranger.tistory.com/247)||
+|Swin-Unet (Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation)|2021|[paper](https://arxiv.org/pdf/2105.05537v1.pdf)|||
 |TransBTS (Multimodal Brain Tumor Segmentation Using Transformer)|2021|[paper](https://arxiv.org/pdf/2103.04430v2.pdf)|||
 
 
