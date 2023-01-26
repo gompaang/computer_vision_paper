@@ -77,5 +77,5 @@
 |UNETR (UNETR: Transformers for 3D Medical Image Segmentation)|2021|[paper](https://arxiv.org/pdf/2103.10504v3.pdf)|[tistory](https://hey-stranger.tistory.com/247)||
 |Swin-Unet (Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation)|2021|[paper](https://arxiv.org/pdf/2105.05537v1.pdf)|||
 |TransBTS (Multimodal Brain Tumor Segmentation Using Transformer)|2021|[paper](https://arxiv.org/pdf/2103.04430v2.pdf)|||
-
+|Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis|CVPR 2022|[paper](https://arxiv.org/pdf/2111.14791v2.pdf)|||
 
