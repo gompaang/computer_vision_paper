@@ -45,6 +45,7 @@
 |ViT (An Image Is Worth 16x16 Words: Transformers For Image Recognition At Scale)|ICLR 2021|[paper](https://arxiv.org/pdf/2010.11929.pdf)|[tistory](https://hey-stranger.tistory.com/243)||
 |Swin Transformer (Hierarchical Vision Transformer using Shifted Windows)|ICCV 2021|[paper](https://arxiv.org/pdf/2103.14030.pdf)||
 |MLP-Mixer (An all-MLP Architecture for Vision)|2021|[paper](https://arxiv.org/pdf/2105.01601.pdf)|||
+|MaxViT (MaxViT: Multi-Axis Vision Transformer)|2022|[paper](https://arxiv.org/pdf/2204.01697v4.pdf)|||
 <br/>
 
 
