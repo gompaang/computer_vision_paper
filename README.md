@@ -69,7 +69,7 @@
 ## Weakly supervised learning
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
-|CAM (Learning Deep Features for Discriminative Localization)|CVPR 2016|[paper](https://arxiv.org/pdf/1512.04150v1.pdf)|||
+|CAM (Learning Deep Features for Discriminative Localization)|CVPR 2016|[paper](https://arxiv.org/pdf/1512.04150v1.pdf)|[tistory](https://hey-stranger.tistory.com/257)||
 |DSRG (Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing)|CVPR 2018|[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)|||
 |SEAM (Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation)|CVPR 2020|[paper](https://arxiv.org/pdf/2004.04581v1.pdf)|||
 <br/>
