@@ -7,6 +7,7 @@
   - segmentation
 - vision transformer
 - self-supervised learning
+- weakly supervised learning
 - medical AI
   - classification
   - segmentation  
@@ -61,6 +62,16 @@
 |MoCo v3 (An Empirical Study of Training Self-Supervised Vision Transformers)|ICCV 2021|[paper](https://arxiv.org/pdf/2104.02057.pdf)|[tistory](https://hey-stranger.tistory.com/256)||
 |BEiT (BEiT: BERT Pre-Training of Image Transformers)|ICLR 2022|[paper](https://arxiv.org/pdf/2106.08254v2.pdf)|||
 |data2Vec (data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language)||[paper](https://arxiv.org/pdf/2202.03555v3.pdf)|||
+<br/>
+
+
+
+## Weakly supervised learning
+|Name|year|paper|summary|code|
+|---|---|---|---|---|
+|CAM (Learning Deep Features for Discriminative Localization)|CVPR 2016|[paper](https://arxiv.org/pdf/1512.04150v1.pdf)|||
+|DSRG (Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing)|CVPR 2018|[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)|||
+|SEAM (Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation)|CVPR 2020|[paper](https://arxiv.org/pdf/2004.04581v1.pdf)|||
 <br/>
 
 
