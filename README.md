@@ -36,7 +36,12 @@
 ### segmentation
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
-  
+|FCN (Fully Convolutional Networks for Semantic Segmentation
+)|CVPR 2015|[paper](https://arxiv.org/abs/1411.4038)|||
+|DeepLab (Rethinking Atrous Convolution for Semantic Image Segmentation
+)|2017|[paper](https://arxiv.org/abs/1706.05587)|||
+|PSPNet (Pyramid Scene Parsing Network
+)|CVPR 2017|[paper](https://arxiv.org/abs/1612.01105)|||
 <br/>
 
 
