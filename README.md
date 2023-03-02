@@ -36,7 +36,8 @@
 ### segmentation
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
-|FCN (Fully Convolutional Networks for Semantic Segmentation)|CVPR 2015|[paper](https://arxiv.org/abs/1411.4038)|||
+|FCN (Fully Convolutional Networks for Semantic Segmentation)|CVPR 2015|[paper](https://arxiv.org/abs/1411.4038)|[tistory](https://hey-stranger.tistory.com/266)||
+|U-Net (Convolutional Networks for Biomedical Image Segmentation)|MICCAI 2015|[paper](https://arxiv.org/pdf/1505.04597.pdf)|[tistory](https://hey-stranger.tistory.com/245)|[code](https://github.com/gompaang/pytorch-implementation/blob/main/unet.py)|
 |DeepLab (Rethinking Atrous Convolution for Semantic Image Segmentation)|2017|[paper](https://arxiv.org/abs/1706.05587)|||
 |PSPNet (Pyramid Scene Parsing Network)|CVPR 2017|[paper](https://arxiv.org/abs/1612.01105)|||
 <br/>
