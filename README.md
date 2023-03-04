@@ -38,7 +38,7 @@
 |---|---|---|---|---|
 |FCN (Fully Convolutional Networks for Semantic Segmentation)|CVPR 2015|[paper](https://arxiv.org/abs/1411.4038)|[tistory](https://hey-stranger.tistory.com/266)||
 |U-Net (Convolutional Networks for Biomedical Image Segmentation)|MICCAI 2015|[paper](https://arxiv.org/pdf/1505.04597.pdf)|[tistory](https://hey-stranger.tistory.com/245)|[code](https://github.com/gompaang/pytorch-implementation/blob/main/unet.py)|
-|SegNet (A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation)|2015|[paper](https://arxiv.org/pdf/1511.00561v3.pdf)|||
+|SegNet (A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation)|2015|[paper](https://arxiv.org/pdf/1511.00561v3.pdf)|[tistory](https://hey-stranger.tistory.com/267)||
 |DeepLab v1 (Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs)|ICLR 2015|[paper](https://arxiv.org/pdf/1412.7062v4.pdf)|||
 |DeepLab v2 (DeepLab: Semantic Image Segmentation with Deep Convolutioanl Nets, Atrous Convolution, and Fully Connected CRFs)|TPAMI 2017|[paper](https://arxiv.org/pdf/1606.00915.pdf)|||
 |DeepLab v3 (Rethinking Atrous Convolution for Semantic Image Segmentation)|2018|[paper](https://arxiv.org/abs/1706.05587)|||
