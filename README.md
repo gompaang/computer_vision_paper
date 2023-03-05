@@ -57,9 +57,11 @@
 <br/>
 
 
-## Self-supervised learning
+## Self-Supervised learning
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
+|Context Prediction (Unsupervised Visual Representation Learning by Context Prediction)|ICCV 2015|[paper](https://arxiv.org/pdf/1505.05192v3.pdf)|||
+|JigSaw (Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles)|2016|[paper](https://arxiv.org/pdf/1603.09246v3.pdf)|||
 |Colorizations (Colorful Image Colorization)|ECCV 2016|[paper](https://arxiv.org/pdf/1603.08511v5.pdf)|||
 |Rotations (Unsupervised Representation Learning By Predicting Image Rotations)|ICLR 2018|[paper](https://arxiv.org/pdf/1803.07728v1.pdf)|||
 |SimCLR (A Single Framework for Contrastive Learning of Visual Representations)|ICML 2020|[paper](https://arxiv.org/pdf/2002.05709.pdf)|[tistory](https://hey-stranger.tistory.com/234)||
