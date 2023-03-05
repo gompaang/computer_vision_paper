@@ -4,7 +4,7 @@
 - computer vision (CNN)
   - image classification
   - object detection
-  - segmentation
+  - semantic segmentation
 - vision transformer
 - self-supervised learning
 - weakly supervised learning
@@ -60,6 +60,8 @@
 ## Self-supervised learning
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
+|Colorizations (Colorful Image Colorization)|ECCV 2016|[paper](https://arxiv.org/pdf/1603.08511v5.pdf)|||
+|Rotations (Unsupervised Representation Learning By Predicting Image Rotations)|ICLR 2018|[paper](https://arxiv.org/pdf/1803.07728v1.pdf)|||
 |SimCLR (A Single Framework for Contrastive Learning of Visual Representations)|ICML 2020|[paper](https://arxiv.org/pdf/2002.05709.pdf)|[tistory](https://hey-stranger.tistory.com/234)||
 |MoCo (Momentum Contrast for Unsupervised Visual Representation Learning)|CVPR 2020|[paper](https://arxiv.org/pdf/1911.05722.pdf)|[tistory](https://hey-stranger.tistory.com/235)||
 |BYOL (Bootstrap Your Own Latent A New Approach to Self-Supervised Learning)|NeurIPS 2020|[paper](https://arxiv.org/pdf/2006.07733.pdf)|[tistory](https://hey-stranger.tistory.com/236)||
