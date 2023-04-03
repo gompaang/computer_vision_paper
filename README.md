@@ -92,7 +92,7 @@
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
 |CLIP (Learning Trasnferable Visual Models From Natural Language Supervision)|2021|[paper](https://arxiv.org/pdf/2103.00020.pdf)|||
-|COOP (Conditional Prompt Learning for Vision-Language Models)|CVPR 2022|[paper](https://arxiv.org/pdf/2203.05557.pdf)|||
+|COOP (Conditional Prompt Learning for Vision-Language Models)|CVPR 2022|[paper](https://arxiv.org/pdf/2109.01134.pdf)|||
 <br/>
 
 
