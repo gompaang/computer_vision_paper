@@ -92,7 +92,9 @@
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
 |CLIP (Learning Transferable Visual Models From Natural Language Supervision)|2021|[paper](https://arxiv.org/pdf/2103.00020.pdf)|[tistory](https://hey-stranger.tistory.com/295)||
-|COOP (Conditional Prompt Learning for Vision-Language Models)|CVPR 2022|[paper](https://arxiv.org/pdf/2109.01134.pdf)|||
+|CoOp (Conditional Prompt Learning for Vision-Language Models)|CVPR 2022|[paper](https://arxiv.org/pdf/2109.01134.pdf)|||
+|Flamingo (Flamingo: a Visual Language Model
+for Few-Shot Learning)|DeepMind 2022|[paper](https://arxiv.org/pdf/2204.14198.pdf)|||
 <br/>
 
 
