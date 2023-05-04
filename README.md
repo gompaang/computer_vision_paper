@@ -73,6 +73,7 @@
 |SimCLR v2 (Big Self-Supervised Models are Strong Semi-Supervised Learners)|NeurIPS 2020|[paper](https://arxiv.org/pdf/2006.10029.pdf)|[tistory](https://hey-stranger.tistory.com/254)||
 |MoCo v2 (Improved Baselines with Momentum Contrastive Learning)|2020|[paper](https://arxiv.org/pdf/2003.04297.pdf)|[tistory](https://hey-stranger.tistory.com/255)||
 |MoCo v3 (An Empirical Study of Training Self-Supervised Vision Transformers)|ICCV 2021|[paper](https://arxiv.org/pdf/2104.02057.pdf)|[tistory](https://hey-stranger.tistory.com/256)||
+|SimSiam (Exploring Simple Siamese Representation Learning)|CVPR 2021|[paper](https://arxiv.org/pdf/2011.10566.pdf)|[tistory](https://hey-stranger.tistory.com/312)||
 |MAE (Masked Autoencoders Are Scalable Vision Learners)|CVPR 2022|[paper](https://arxiv.org/pdf/2111.06377v2.pdf)|||
 |BEiT (BEiT: BERT Pre-Training of Image Transformers)|ICLR 2022|[paper](https://arxiv.org/pdf/2106.08254v2.pdf)|||
 |data2Vec (data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language)||[paper](https://arxiv.org/pdf/2202.03555v3.pdf)|||
