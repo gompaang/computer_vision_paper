@@ -1,13 +1,14 @@
 # computer_vision_paper
 
 ## paper_list
-- computer vision (CNN)
+- Image Recognition (CNN)
   - image classification
   - object detection
   - semantic segmentation
-- vision transformer
-- self-supervised learning
-- weakly supervised learning
+- Vision Transformer
+- Self-supervised learning
+- Weakly-supervised learning
+- Depth Estimation
 - Vision Language Model
 - medical AI
   - classification
@@ -15,7 +16,7 @@
 <br/>
 
 
-## Computer Vision (CNN)
+## Image Recognition (CNN)
 
 ### image classification
 |Name|year|paper|summary|code|
@@ -34,7 +35,7 @@
 |YOLO (You Only Look Once: Unified, Real-Time Object Detection)|2016|[paper](https://arxiv.org/pdf/1506.02640.pdf)|[notion](https://mirror-dragonfly-2a2.notion.site/YOLO-2016-bbf62be633864d9496302cc39fed227a)||
 |SSD (Single Shot MultiBox Detector)|2016|[paper](https://arxiv.org/pdf/1512.02325.pdf)|[notion](https://mirror-dragonfly-2a2.notion.site/SSD-2016-83db924b7b104af5adf125595c816747)||
 
-### segmentation
+### semantic segmentation
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
 |FCN (Fully Convolutional Networks for Semantic Segmentation)|CVPR 2015|[paper](https://arxiv.org/abs/1411.4038)|[tistory](https://hey-stranger.tistory.com/266)||
@@ -58,7 +59,7 @@
 <br/>
 
 
-## Self-Supervised learning
+## Self-supervised learning
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
 |Context Prediction (Unsupervised Visual Representation Learning by Context Prediction)|ICCV 2015|[paper](https://arxiv.org/pdf/1505.05192v3.pdf)|||
@@ -72,13 +73,14 @@
 |SimCLR v2 (Big Self-Supervised Models are Strong Semi-Supervised Learners)|NeurIPS 2020|[paper](https://arxiv.org/pdf/2006.10029.pdf)|[tistory](https://hey-stranger.tistory.com/254)||
 |MoCo v2 (Improved Baselines with Momentum Contrastive Learning)|2020|[paper](https://arxiv.org/pdf/2003.04297.pdf)|[tistory](https://hey-stranger.tistory.com/255)||
 |MoCo v3 (An Empirical Study of Training Self-Supervised Vision Transformers)|ICCV 2021|[paper](https://arxiv.org/pdf/2104.02057.pdf)|[tistory](https://hey-stranger.tistory.com/256)||
+|MAE (Masked Autoencoders Are Scalable Vision Learners)|CVPR 2022|[paper](https://arxiv.org/pdf/2111.06377v2.pdf)|||
 |BEiT (BEiT: BERT Pre-Training of Image Transformers)|ICLR 2022|[paper](https://arxiv.org/pdf/2106.08254v2.pdf)|||
 |data2Vec (data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language)||[paper](https://arxiv.org/pdf/2202.03555v3.pdf)|||
 <br/>
 
 
 
-## Weakly supervised learning
+## Weakly-supervised learning
 |Name|year|paper|summary|code|
 |---|---|---|---|---|
 |CAM (Learning Deep Features for Discriminative Localization)|CVPR 2016|[paper](https://arxiv.org/pdf/1512.04150v1.pdf)|[tistory](https://hey-stranger.tistory.com/257)||
@@ -87,6 +89,21 @@
 |Learning pseudo labels for semi-and-weakly supervised semantic segmentation|2022|[paper](https://www.sciencedirect.com/science/article/pii/S003132032200406X)|[tistory](https://hey-stranger.tistory.com/271)||
 <br/>
 
+
+## Depth Estimation
+|Name|year|paper|summary|code|
+|---|---|---|---|---|
+|Depth Map Prediction from a Single Image using a Multi-Scale Deep Network|NeurIPS 2014|[paper](https://arxiv.org/pdf/1406.2283v1.pdf)|[tistory](https://hey-stranger.tistory.com/306)||
+|Predicting depth, surface normals and semantic labels with a common multi-scale convolutional architecture|ICCV 2015|[paper](https://arxiv.org/pdf/1411.4734v4.pdf)|[tistory](https://hey-stranger.tistory.com/308)||
+|Deeper Depth Prediction with Fully Convolutional Residual Networks|3DV 2016|[paper](https://arxiv.org/pdf/1606.00373v2.pdf)|[tistory](https://hey-stranger.tistory.com/310)||
+|Single-Image Depth Perception in the Wild|NeurIPS 2016|[paper](https://arxiv.org/pdf/1604.03901v2.pdf)|[tistory](https://hey-stranger.tistory.com/311)||
+|Deep Ordinal Regression Network for Monocular Depth Estimation |CVPR 2018|[paper](https://arxiv.org/pdf/1806.02446v1.pdf)|||
+|Joint Task-Recursive Learning for Semantic Segmentation and Depth Estimation|ECCV 2018|[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenyu_Zhang_Joint_Task-Recursive_Learning_ECCV_2018_paper.pdf)|||
+|Unsupervised Learning of Depth and Ego-Motion from Video|CVPR 2017|[paper](https://arxiv.org/pdf/1704.07813v2.pdf)|||
+|Unsupervised Monocular Depth Estimation with Left-Right Consistency|CVPR 2017|[paper](https://arxiv.org/pdf/1609.03677v3.pdf)|||
+|Digging Into Self-Supervised Monocular Depth Estimation|ICCV 2019|[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Godard_Digging_Into_Self-Supervised_Monocular_Depth_Estimation_ICCV_2019_paper.pdf)|||
+
+<br/>
 
 ## Vision Language Model (VLM)
 |Name|year|paper|summary|code|
